@@ -1,0 +1,36 @@
+.testimonial-wrap {
+    width: 100%;
+    position: relative;
+    overflow: hidden
+}
+
+.carousel {
+    margin-top: $spacing3
+}
+
+.item {
+    padding: $spacing2
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+th,
+td {
+    border: 1px solid #000;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #4CAF4F;
+    font-weight: bold;
+}
+
+.red-text {
+    color: red;
+}
